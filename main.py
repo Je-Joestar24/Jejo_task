@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+# Jejo Task Manager 1
 
 import json
 import os
