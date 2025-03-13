@@ -41,7 +41,7 @@ class TaskManager:
         Args:
             title (str): Title of the task
         """
-        task_id = len(self.tasks) + 1
+        task_id = self.tasks[len(self.tasks) - 1]['id'] + 1
         task = {
             "id": task_id,
             "title": title,
