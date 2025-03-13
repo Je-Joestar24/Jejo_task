@@ -1,17 +1,17 @@
 [
   {
     "id": 1,
-    "title": "Testing this first task",
+    "title": "First Task",
     "completed": true
   },
   {
     "id": 2,
-    "title": "Testing the second task",
-    "completed": false
+    "title": "Second Task",
+    "completed": true
   },
   {
     "id": 3,
-    "title": "Testing the third task",
-    "completed": false
+    "title": "Updated the task 3",
+    "completed": true
   }
 ]
