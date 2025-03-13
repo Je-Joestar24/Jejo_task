@@ -1,4 +1,4 @@
-# Task Manager
+# Jejo Task Manager
 
 A simple command-line Task Manager application written in Python that allows users to manage their tasks efficiently. Tasks are stored in a JSON file for persistent storage.
 
@@ -71,12 +71,6 @@ task-manager/
 │── tasks.json       # Storage file for tasks
 │── README.md        # Project documentation
 ```
-
-## Contributing
-Feel free to submit issues or feature requests. If you'd like to contribute, fork the repository and submit a pull request.
-
-## License
-This project is licensed under the MIT License.
 
 ---
 
