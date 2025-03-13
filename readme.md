@@ -66,10 +66,12 @@ Once running, follow the on-screen menu to:
 
 ## File Structure
 ```
-task-manager/
-│── task_manager.py  # Main script file
-│── tasks.json       # Storage file for tasks
-│── README.md        # Project documentation
+Jejo_task/
+│── main.py               # Main script file
+│── README.md             # Project documentation
+|── task/tasks.json       # Storage file for tasks
+|── app/taskmanager.py    # Task Manager Class & functionalities
+
 ```
 
 ---
