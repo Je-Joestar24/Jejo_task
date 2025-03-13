@@ -7,7 +7,7 @@ from typing import List, Dict
 class TaskManager:
     """A command-line task manager application for managing tasks."""
     
-    def __init__(self, filename: str = "tasks.json"):
+    def __init__(self, filename: str = "task/tasks.json"):
         """Initialize TaskManager with a file for persistent storage.
         
         Args:
