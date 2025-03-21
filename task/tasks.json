@@ -1,17 +1,30 @@
 [
   {
-    "id": 2,
-    "title": "Second Task",
+    "id": 1,
+    "title": "Test 1",
+    "description": "",
+    "priority": "medium",
     "completed": true
+  },
+  {
+    "id": 2,
+    "title": "Test 2",
+    "description": "Description",
+    "priority": "low",
+    "completed": false
   },
   {
     "id": 3,
-    "title": "Third",
-    "completed": true
+    "title": "Test task 3",
+    "description": "Test task 3 description",
+    "priority": "high",
+    "completed": false
   },
   {
     "id": 4,
-    "title": "Updated 4 task",
-    "completed": true
+    "title": "Test 4",
+    "description": "Test description 4",
+    "priority": "high",
+    "completed": false
   }
 ]
